@@ -1,0 +1,9 @@
+
+[run]
+branch = True
+source =
+    forismatic-bot
+
+[paths]
+source =
+    forismatic-bot
